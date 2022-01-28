@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-w&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Makefile,C,C++,C#,javaScript&count_private=true&theme=radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,javaScript,Makefile,C,C++,C#&count_private=true&theme=radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)

@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-w&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,dockerfile,ruby,javascript,CSS,C%2B%2B,C%23&count_private=true&theme=radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-w&count_private=true&theme=dark&show_icons=true)]
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=karimw&theme=dark&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,dockerfile,ruby,javascript,CSS,C%2B%2B,C%23&count_private=true&theme=dark&radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io)]

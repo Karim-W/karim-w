@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karimw&theme=dark&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,dockerfile,ruby,javascript,CSS,C%2B%2B,C%23&count_private=true&theme=dark&radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
     <img src="https://github-readme-stats.vercel.app/api?username=karim-w&count_private=true&theme=dark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,dockerfile,ruby,javascript,CSS,C%2B%2B,C%23&count_private=true&theme=dark&radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
     <h2>Languages:</h2>
     <div style="display:flex;flex-wrap:wrap;">
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img height="40px" width="60px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background-color:white"  />
-    <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/**icons**/nestjs/nestjs-plain.svg" />
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     </div>

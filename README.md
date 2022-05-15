@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, My Name is Karim Hassan
+For more information about me please visit my website:
+- https://www.karim-w.com
 
 <!--
 **Karim-W/karim-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently learning  -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me:
+  - Email: Karim.wael@gmail.com
+  - https://www.karim-w.com/contact
+<!-- - 😄 Pronouns: ... -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karimw&theme=dark&layout=compact" />

@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/d590b0ec-4cf4-4459-97f5-00b384f4b2c0.svg)](https://wakatime.com/@d590b0ec-4cf4-4459-97f5-00b384f4b2c0)
 ### Hi there 👋, My Name is Karim Hassan
 For more information about me please visit my website:
 - https://www.karim-w.com

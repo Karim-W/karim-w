@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karimw&theme=dark&layout=compact" />
+<figure><embed src="https://wakatime.com/share/@karimw/0ee88644-076f-4900-a301-ff32a302f213.svg"></embed></figure>
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=karim-w&count_private=true&theme=dark&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,dockerfile,ruby,javascript,CSS,C%2B%2B,C%23&count_private=true&theme=dark&radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/> -->
     <h2>Languages:</h2>

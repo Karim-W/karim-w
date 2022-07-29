@@ -1,7 +1,12 @@
 [![wakatime](https://wakatime.com/badge/user/d590b0ec-4cf4-4459-97f5-00b384f4b2c0.svg)](https://wakatime.com/@d590b0ec-4cf4-4459-97f5-00b384f4b2c0)
 ### Hi there 👋, My Name is Karim Hassan
-For more information about me please visit my website:
-- https://www.karim-w.com
+Software Engineer - FullStack 
+-----------------------------  
+- 🌍  I'm based in Dubai,UAE 
+- 🖥️  See my portfolio at [karim.com](http://karim-w.com) 
+- ✉️  You can contact me at [Karim.wael@gmail.com](mailto:Karim.wael@gmail.com)
+
+
 
 <!--
 **Karim-W/karim-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,12 +27,9 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:
-  - Email: Karim.wael@gmail.com
-  - https://www.karim-w.com/contact
 <!-- - 😄 Pronouns: ... -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/><img src="https://activity-graph.herokuapp.com/graph?username=karim-w&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karimw&theme=dark&layout=compact" /> -->
 <img  width="500px" src="https://wakatime.com/share/@karimw/8d05741d-fc2f-4f40-96ad-4d79315dc73b.svg"/>
 <img width="500px" src="https://wakatime.com/share/@karimw/3fa1b894-76ea-4285-a22c-99e38fdd0bb3.svg"/>

@@ -3,7 +3,7 @@
 Software Engineer - FullStack 
 -----------------------------  
 - 🌍  I'm based in Dubai,UAE 
-- 🖥️  See my portfolio at [karim.com](http://karim-w.com) 
+- 🖥️  See my portfolio at [karim-w.com](http://karim-w.com) 
 - ✉️  You can contact me at [Karim.wael@gmail.com](mailto:Karim.wael@gmail.com)
 
 

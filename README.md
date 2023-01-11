@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/d590b0ec-4cf4-4459-97f5-00b384f4b2c0.svg)](https://wakatime.com/@d590b0ec-4cf4-4459-97f5-00b384f4b2c0)
+[![committers.top badge](https://user-badge.committers.top/uae_private/Karim-W.svg)](https://user-badge.committers.top/uae_private/Karim-W)
 ### Hi there 👋, My Name is Karim Hassan
 Software Engineer - FullStack 
 -----------------------------  

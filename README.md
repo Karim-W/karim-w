@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-w&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api?username=karim-w&count_private=true&theme=dark&show_icons=true"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=karim-w&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,vim%20script,shell,dockerfile,ruby,dart,CSS,C%2B%2B,C%23&count_private=true&theme=dark&radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-w&hide=objective-c,tex,java,HTML,Python,Makefile,C,vim%20script,shell,javascript,dockerfile,ruby,dart,CSS,C%2B%2B,C%23&count_private=true&theme=dark&radical&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
     <h2>Languages:</h2>
     <div style="display:flex;flex-wrap:wrap;">
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
